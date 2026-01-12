@@ -21,9 +21,9 @@ This is a discussion-based research-oriented class. This is **not a lecture-base
 
 This course will have a heavy workload and will be highly challenging. It assumes that students are already familiar with LLM fundamentals covered in CS 7650 (or an equivalent background gained through self-study or other coursework). The course is intended for PhD students and MS students who have the time, motivation, and technical maturity (e.g., data analysis, creativity, mathematics, programming, technical writing, and critical thinking) to comprehend and conduct research at the level expected by top AI research venues (e.g., ACL, EMNLP, NAACL, ICLR, NeurIPS, COLM).
 
-Bonus point: some students may continue on working in or with the [**NLP X Lab**](https://cocoxu.github.io/#advise) at the Georgia Tech after the class and publish their projects at top ML/NLP conferences! Three course projects from the Fall 2024 offering of this class have resulted in publications at NAACL 2025, EMNLP 2025, and COLM 2025, with one additional paper currently under submission.
+**Research publications:** some students may continue on working with the instructor (and TAs) after the class to extend and publish their projects at top ML/NLP conferences! A total of 4 course projects from the Fall 2024 offering of this class have resulted in publications at NAACL 2025, EMNLP 2025, COLM 2025, and one paper currently under submission (listed at the end of this page).
 
-(**For students on the wait list:** The teaching team does not have control over individual students’ enrollment in the class. Permits are issued by the CoC office, prioritizing CS/ML PhD students and MSCS students.)
+**For students on the wait list:** The teaching team does not have control over individual students’ enrollment in the class. Permits are issued by the CoC office, prioritizing CS/ML PhD students and MSCS students.)
 
 
 ## Prerequisites
