@@ -72,7 +72,7 @@ Students will work in group of 1~4 to propose, conduct, give presentations, and 
 
 Deliverables:
 * Literature Review: 2%
-* Project Proposal: 3%
+* Project Proposal: 2%
 * Midway Report: 5%
 * Final Project Presentation: 10%
 * Final Report: 30%
