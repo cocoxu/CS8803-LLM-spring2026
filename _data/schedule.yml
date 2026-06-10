@@ -118,7 +118,7 @@
       slides: "/presentations/2026-03-30/scaling-llm-test-time-compute-optimally-can-be-more.pdf"
       arxiv: "https://arxiv.org/abs/2408.03314"
 - date: "Apr 1"
-  topic: "LLM Distribution"
+  topic: "Mode Collapse"
   papers:
     - title: "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)"
       slides: "/presentations/2026-04-01/artificial-hivemind-the-open-ended-homogeneity-of.pdf"
