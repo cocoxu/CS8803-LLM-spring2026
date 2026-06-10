@@ -29,7 +29,7 @@
       slides: "/presentations/2026-02-09/nv-embed-improved-techniques-for-training-llms-as.pdf"
       arxiv: "https://arxiv.org/abs/2405.17428"
 - date: "Feb 11"
-  topic: "Embeddings"
+  topic: "Mixture-of-Experts"
   papers:
     - title: "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer"
       slides: "/presentations/2026-02-11/outrageously-large-neural-networks-the-sparsely-gated.pdf"
