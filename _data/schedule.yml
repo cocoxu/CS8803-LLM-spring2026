@@ -53,7 +53,7 @@
       slides: "/presentations/2026-02-18/training-a-generally-curious-agent.pdf"
       arxiv: "https://arxiv.org/abs/2502.17543"
 - date: "Feb 23"
-  topic: "Agent Scaffold"
+  topic: "Agent Harness"
   papers:
     - title: "Agent Workflow Memory"
       slides: "/presentations/2026-02-23/agent-workflow-memory.pdf"
