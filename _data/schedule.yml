@@ -2,6 +2,7 @@
 # Each entry: a class date and its papers (title -> slides, plus arXiv link).
 
 - date: "Feb 2"
+  topic: "Pretraining"
   papers:
     - title: "Chameleon: A Flexible Data-mixing Framework for Language Model Pretraining and Finetuning"
       slides: "/presentations/2026-02-02/chameleon-a-flexible-data-mixing-framework-for.pdf"
@@ -10,6 +11,7 @@
       slides: "/presentations/2026-02-02/parity-aware-byte-pair-encoding-improving-cross.pdf"
       arxiv: "https://arxiv.org/abs/2508.04796"
 - date: "Feb 4"
+  topic: "Embeddings"
   papers:
     - title: "Improving Text Embeddings with Large Language Models"
       slides: "/presentations/2026-02-04/improving-text-embeddings-with-large-language-models.pdf"
@@ -18,6 +20,7 @@
       slides: "/presentations/2026-02-04/mmteb-massive-multilingual-text-embedding-benchmark.pdf"
       arxiv: "https://arxiv.org/abs/2502.13595"
 - date: "Feb 9"
+  topic: "Embeddings"
   papers:
     - title: "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (only Section 2.1)"
       slides: "/presentations/2026-02-09/deepseek-v2-a-strong-economical-and-efficient-mixture.pdf"
@@ -26,6 +29,7 @@
       slides: "/presentations/2026-02-09/nv-embed-improved-techniques-for-training-llms-as.pdf"
       arxiv: "https://arxiv.org/abs/2405.17428"
 - date: "Feb 11"
+  topic: "Embeddings"
   papers:
     - title: "Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer"
       slides: "/presentations/2026-02-11/outrageously-large-neural-networks-the-sparsely-gated.pdf"
@@ -34,11 +38,13 @@
       slides: "/presentations/2026-02-11/your-mixture-of-experts-llm-is-secretly-an-embedding.pdf"
       arxiv: "https://arxiv.org/abs/2410.10814"
 - date: "Feb 16"
+  topic: "Reasoning"
   papers:
     - title: "BIRD: A Trustworthy Bayesian Inference Framework for Large Language Models"
       slides: "/presentations/2026-02-16/bird-a-trustworthy-bayesian-inference-framework-for.pdf"
       arxiv: "https://arxiv.org/abs/2404.12494"
 - date: "Feb 18"
+  topic: "Reasoning / Alignment"
   papers:
     - title: "Direct Preference Optimization: Your Language Model is Secretly a Reward Model"
       slides: "/presentations/2026-02-18/direct-preference-optimization-your-language-model-is.pdf"
@@ -47,6 +53,7 @@
       slides: "/presentations/2026-02-18/training-a-generally-curious-agent.pdf"
       arxiv: "https://arxiv.org/abs/2502.17543"
 - date: "Feb 23"
+  topic: "Agent Scaffold"
   papers:
     - title: "Agent Workflow Memory"
       slides: "/presentations/2026-02-23/agent-workflow-memory.pdf"
@@ -55,11 +62,13 @@
       slides: "/presentations/2026-02-23/the-openhands-software-agent-sdk-a-composable-and.pdf"
       arxiv: "https://arxiv.org/abs/2511.03690"
 - date: "Feb 25"
+  topic: "Long-Context"
   papers:
     - title: "Efficient Streaming Language Models with Attention Sinks"
       slides: "/presentations/2026-02-25/efficient-streaming-language-models-with-attention.pdf"
       arxiv: "https://arxiv.org/abs/2309.17453"
 - date: "Mar 2"
+  topic: "Attention"
   papers:
     - title: "DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models (only Section 2)"
       slides: "/presentations/2026-03-02/deepseek-v3-2-pushing-the-frontier-of-open-large.pdf"
@@ -68,25 +77,30 @@
       slides: "/presentations/2026-03-02/transmla-multi-head-latent-attention-is-all-you-need.pdf"
       arxiv: "https://arxiv.org/abs/2502.07864"
 - date: "Mar 4"
+  topic: "Reinforcement Learning"
   papers:
     - title: "GRPO, DAPO, and \"Understanding R1-Zero-Like Training\""
       slides: "/presentations/2026-03-04/grpo-dapo-and-understanding-r1-zero-like-training.pdf"
 - date: "Mar 9"
+  topic: "Reasoning"
   papers:
     - title: "Optimas: Optimizing Compound AI Systems with Globally Aligned Local Rewards"
       slides: "/presentations/2026-03-09/optimas-optimizing-compound-ai-systems-with-globally.pdf"
       arxiv: "https://arxiv.org/abs/2507.03041"
 - date: "Mar 11"
+  topic: "Reasoning"
   papers:
     - title: "CWM: An Open-Weights LLM for Research on Code Generation with World Models"
       slides: "/presentations/2026-03-11/cwm-an-open-weights-llm-for-research-on-code.pdf"
       arxiv: "https://arxiv.org/abs/2510.02387"
 - date: "Mar 16"
+  topic: "Self-Play RL"
   papers:
     - title: "Absolute Zero: Reinforced Self-play Reasoning with Zero Data"
       slides: "/presentations/2026-03-16/absolute-zero-reinforced-self-play-reasoning-with.pdf"
       arxiv: "https://arxiv.org/abs/2505.03335"
 - date: "Mar 18"
+  topic: "Self-Play RL"
   papers:
     - title: "SPICE: Self-Play In Corpus Environments Improves Reasoning"
       slides: "/presentations/2026-03-18/spice-self-play-in-corpus-environments-improves.pdf"
@@ -95,6 +109,7 @@
       slides: "/presentations/2026-03-18/toward-training-superintelligent-software-agents.pdf"
       arxiv: "https://arxiv.org/abs/2512.18552"
 - date: "Mar 30"
+  topic: "Test-Time Scaling"
   papers:
     - title: "Learning to Discover at Test Time"
       slides: "/presentations/2026-03-30/learning-to-discover-at-test-time.pdf"
@@ -103,11 +118,13 @@
       slides: "/presentations/2026-03-30/scaling-llm-test-time-compute-optimally-can-be-more.pdf"
       arxiv: "https://arxiv.org/abs/2408.03314"
 - date: "Apr 1"
+  topic: "LLM Distribution"
   papers:
     - title: "Artificial Hivemind: The Open-Ended Homogeneity of Language Models (and Beyond)"
       slides: "/presentations/2026-04-01/artificial-hivemind-the-open-ended-homogeneity-of.pdf"
       arxiv: "https://arxiv.org/abs/2510.22954"
 - date: "Apr 6"
+  topic: "Linear Transformer"
   papers:
     - title: "Linear transformers are secretly fast weight programmers"
       slides: "/presentations/2026-04-06/linear-transformers-are-secretly-fast-weight.pdf"
@@ -116,6 +133,7 @@
       slides: "/presentations/2026-04-06/parallelizing-linear-transformers-with-the-delta-rule.pdf"
       arxiv: "https://arxiv.org/abs/2406.06484"
 - date: "Apr 8"
+  topic: "Diffusion LM"
   papers:
     - title: "Diffusion-LM Improves Controllable Text Generation"
       slides: "/presentations/2026-04-08/diffusion-lm-improves-controllable-text-generation.pdf"
@@ -124,6 +142,7 @@
       slides: "/presentations/2026-04-08/large-language-diffusion-models.pdf"
       arxiv: "https://arxiv.org/abs/2502.09992"
 - date: "Apr 13"
+  topic: "Safety"
   papers:
     - title: "Emergent Misalignment: Narrow finetuning can produce broadly misaligned LLMs"
       slides: "/presentations/2026-04-13/emergent-misalignment-narrow-finetuning-can-produce.pdf"
@@ -132,6 +151,7 @@
       slides: "/presentations/2026-04-13/on-the-role-of-attention-heads-in-large-language.pdf"
       arxiv: "https://arxiv.org/abs/2410.13708"
 - date: "Apr 15"
+  topic: "Mechanistic Interpretability"
   papers:
     - title: "Scaling and Evaluating Sparse Autoencoders"
       slides: "/presentations/2026-04-15/scaling-and-evaluating-sparse-autoencoders.pdf"
@@ -139,8 +159,8 @@
     - title: "Sparse Crosscoders for Cross-Layer Features and Model Diffing"
       slides: "/presentations/2026-04-15/sparse-crosscoders-for-cross-layer-features-and-model.pdf"
       arxiv: "https://transformer-circuits.pub/2024/crosscoders/index.html"
-      arxiv_label: "paper"
 - date: "Apr 20"
+  topic: "Calibration"
   papers:
     - title: "Active Task Disambiguation with LLMs"
       slides: "/presentations/2026-04-20/active-task-disambiguation-with-llms.pdf"
@@ -149,6 +169,7 @@
       slides: "/presentations/2026-04-20/learning-to-route-llms-with-confidence-tokens.pdf"
       arxiv: "https://arxiv.org/abs/2410.13284"
 - date: "Apr 22"
+  topic: "Scaling Law"
   papers:
     - title: "Scaling Laws for Precision"
       slides: "/presentations/2026-04-22/scaling-laws-for-precision.pdf"
