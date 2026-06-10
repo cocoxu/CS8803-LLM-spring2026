@@ -41,6 +41,14 @@ title: Schedule (subject to change as the term progresses)
   flex: 0 0 auto;
   white-space: nowrap;
 }
+.sched .paper a {                    /* clean links: no underline, dim on hover */
+  background-image: none;            /* remove the theme's faux-underline */
+  transition: opacity 0.15s ease;
+}
+.sched .paper a:hover {
+  background-image: none;            /* no underline on hover either */
+  opacity: 0.55;                     /* dim instead */
+}
 @media (max-width: 44rem) {
   .sched-row {
     grid-template-columns: 3.5rem 1fr;
